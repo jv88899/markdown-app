@@ -1,0 +1,10 @@
+.editor {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 0 10px;
+}
+
+#editor {
+    height: 30vh;
+    width: 100%;
+}
